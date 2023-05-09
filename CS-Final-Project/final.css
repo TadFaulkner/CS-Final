@@ -32,3 +32,33 @@
   width: 100%; 
 }
 
+/* Caption text */
+.home_text {
+  color: #f2f2f2;
+  font-size: 50px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 130px;
+  width: 100%;
+  text-align: center;
+}
+
+.people_text {
+  color: #f2f2f2;
+  font-size: 50px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 120px;
+  left: 30px;
+  width: 100%;
+}
+
+.animal_text {
+  color: #023e0b;
+  font-size: 50px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 300px;
+  text-align: center;
+  width: 100%;
+}
