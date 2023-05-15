@@ -96,7 +96,7 @@
   background-color: #007102;
   color: white;
   font-size: 16px;
-  padding: 12px 24px;
+  padding: 12px 0px;
   border: none;
   cursor: pointer;
   border-radius: 5px;
@@ -107,6 +107,7 @@
   background-color: black;
 }
 
+
 .background .left_btn {
   position: absolute;
   top: 50%;
@@ -116,7 +117,7 @@
   background-color: #007102;
   color: white;
   font-size: 16px;
-  padding: 12px 24px;
+  padding: 12px 0px;
   border: none;
   cursor: pointer;
   border-radius: 5px;
@@ -125,5 +126,18 @@
 
 .background .left_btn:hover {
   background-color: black;
+}
+
+a#btn_anchor{
+  padding: 12px 24px;
+}
+
+a:visited {
+  color: white;
+}
+
+a {
+  color:white;
+  text-decoration: none;
 }
 
