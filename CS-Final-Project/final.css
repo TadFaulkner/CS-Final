@@ -68,7 +68,7 @@
   font-size: 50px;
   padding: 8px 12px;
   position: absolute;
-  top: 350px;
+  top: 150px;
   text-align: right;
   right: 30px;
   width: 100%;
@@ -141,3 +141,22 @@ a {
   text-decoration: none;
 }
 
+.singh_para {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.chandra {
+  float: left;
+  width: 400px;
+  padding: 5px 5px;
+}
+
+.damnage {
+  float: right;
+  width: 250px;
+  margin-right: 200px;
+  padding: 15px;
+  text-align: center;
+  font-size: 10;
+}
