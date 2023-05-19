@@ -149,14 +149,38 @@ a {
 .chandra {
   float: left;
   width: 400px;
-  padding: 5px 5px;
+  padding: 10px 10px;
 }
 
 .damnage {
   float: right;
   width: 250px;
   margin-right: 200px;
-  padding: 15px;
+  padding: 10px;
   text-align: center;
   font-size: 10;
+}
+
+.rana_hd {
+  text-align: center;
+}
+
+.home_hd {
+  text-align: center;
+}
+
+.intro_hd {
+  text-align: center;
+}
+
+.home_para {
+  margin-left: 100px;
+  margin-right: 100px;
+  font-size: 20px;
+}
+
+.chippy {
+  float: left;
+  width: 300px;
+  padding: 5px 10px;
 }
