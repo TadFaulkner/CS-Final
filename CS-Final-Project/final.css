@@ -184,3 +184,45 @@ a {
   width: 300px;
   padding: 5px 10px;
 }
+
+.solutions_para {
+  margin-left: 100px;
+  margin-right: 100px;
+  font-size: 20px;
+}
+.brtn_tax {
+  float: left;
+  width: 400px;
+  padding: 10px 10px;
+}
+
+.crbntx {
+  float: right;
+  width: 500px;
+  padding: 5px 15px;
+}
+
+.lobby {
+  float: left;
+  width: 500px;
+  padding: 10px 10px;
+}
+
+.pika {
+  float: left;
+  width: 540px;
+  padding: 5px 10px;
+}
+
+.meese {
+  float: right;
+  width: 500px;
+  padding: 5px 10px;
+}
+
+.anim_para {
+  margin-left: 100px;
+  margin-right: 100px;
+  font-size: 20px;
+
+}
